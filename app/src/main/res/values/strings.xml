@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FindBook</string>
+    <string name="type_some_text">Type some text</string>
+    <string name="description">User type book name want to search!!!</string>
+</resources>
